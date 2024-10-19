@@ -23,5 +23,5 @@ import { ContactComponent } from './contact/contact.component';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'first-ng';
+  title = 'first';
 }
